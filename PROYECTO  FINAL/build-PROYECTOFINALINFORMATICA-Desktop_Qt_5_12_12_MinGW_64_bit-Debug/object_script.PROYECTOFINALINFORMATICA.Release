@@ -1,0 +1,16 @@
+release/Bullet.o
+release/dividir.o
+release/enemy.o
+release/explosion.o
+release/game.o
+release/main.o
+release/clasemainwindow.o
+release/tank.o
+release/wall.o
+release/qrc_Recursos.o
+release/moc_Bullet.o
+release/moc_clasemainwindow.o
+release/moc_enemy.o
+release/moc_explosion.o
+release/moc_game.o
+release/moc_tank.o

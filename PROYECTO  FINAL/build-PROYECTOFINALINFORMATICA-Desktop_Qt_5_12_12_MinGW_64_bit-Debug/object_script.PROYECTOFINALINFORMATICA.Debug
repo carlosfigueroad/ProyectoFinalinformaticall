@@ -1,0 +1,16 @@
+debug/Bullet.o
+debug/dividir.o
+debug/enemy.o
+debug/explosion.o
+debug/game.o
+debug/main.o
+debug/clasemainwindow.o
+debug/tank.o
+debug/wall.o
+debug/qrc_Recursos.o
+debug/moc_Bullet.o
+debug/moc_clasemainwindow.o
+debug/moc_enemy.o
+debug/moc_explosion.o
+debug/moc_game.o
+debug/moc_tank.o
